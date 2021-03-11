@@ -2,7 +2,7 @@
 
 This is the project I developed, if you are interested you can get them here:
 
-### [Badging](https://badging.now.sh)
+### [Badging](https://badging.tk)
 
 This is an identification tag based on SVG, It can quickly generate various labels and status identifiers
 
